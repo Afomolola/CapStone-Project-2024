@@ -14,7 +14,7 @@ For Data CleaningFor AnalysisFor Data VisualizationSQL - Structured Query Langua
 
 ## Data Cleaning & Preparation
 In the initial phase of the Data cleaning and preparation we performed the following actions;
-- Data Loading from the sources and inspection into Server studio management and Power BI from Excel
+- Data Loading from the sources and inspection into Server studio management after converting into CSV so it is workable also to work on Power BI after loading,the data was imported into the mechanics workshop which is *TransformData*
 - Handling missing variables;
   1. This is done in Power BI by first transforming Data where the work is done checking for your Column quality,Distribution under View
   2. For Excel this is done by filling datas
