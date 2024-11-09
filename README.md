@@ -9,15 +9,16 @@ The excel was used in preparing the data by eliminating duplicates then using Pi
 The primary source of data we used majorly is Sales.csv gotten from Capstone LITA Project
 
 ## Data Tool
-Microsoft Excel Download here
-For Data CleaningFor AnalysisFor Data VisualizationSQL - Structured Query Language for Querying of Data, data management and RetrievalGitHub for Portfolio BuildingPower BI for Data visualizationa and reporting
+- Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=04bff806b0a966640250ed20b10567a6)
+- SQL[Download here](https://www.bing.com/search?q=microsoft+sql+server+download&filters=dtbk:%22MCFjZ192NV9kb3dubG9hZCFjZ192NV9kb3dubG9hZCFkODhhZWI3ZC00ZTViLTNjOWItMTkwMC0zOTNlNmQ1ZmNmNGU%3d%22+sid:%22d88aeb7d-4e5b-3c9b-1900-393e6d5fcf4e%22&FORM=DEPNAV)
+- Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?msockid=04bff806b0a966640250ed20b10567a6)
 
 ## Data Cleaning & Preparation
 In the initial phase of the Data cleaning and preparation we performed the following actions;
 - Data Loading from the sources and inspection into Server studio management after converting into CSV so it is workable also to work on Power BI after loading,the data was imported into the mechanics workshop which is *TransformData*
 - Handling missing variables;
   1. This is done in Power BI by first transforming Data where the work is done checking for your Column quality,Distribution under View
-  2. For Excel this is done by filling datas
+  2. For Excel this is done by thorough checckings from source, data filling, Pivoting to summarize large data sets
 - Data cleaning and formatting;
   1. Deleting duplicates and validating errors
 
