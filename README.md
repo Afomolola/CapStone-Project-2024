@@ -114,4 +114,5 @@ FROM [dbo].[CustomerData]
 ```
 
 ## Visualization
-This deals mainly with the visuals of all that was done from the charts on excel to the charts generated from Power BI
+This deals mainly with the visuals of all that was done from the charts on excel to the charts generated from Power BI.
+From the Visuals provided we were able to see how the shoe was the most sold product both in the year 2023 and 2024, also it also helps show the increment in the total customers we added from last year to date.
