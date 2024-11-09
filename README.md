@@ -3,7 +3,7 @@ This project helps show the analysis of a company's Sales performance and trends
 
 ## Project Overview
 This shows how 3 tools were used to prepare data for a company as regards their performance in regions and through returns gotten in the year and monthly.
-The excel was used in preparing the data by eliminating duplicates then using Pivot table to summarize the thousand of data in a way that it is easy to the end user. 
+The excel was used in preparing the data by eliminating duplicates then using Pivot table to summarize the thousand of data in a way that it is easy to the end user, it also helps show insights into trends that will help a company make decisions as to what to do and do best in the coming year, what and what not to offer also shows how this 3 tools used are intertwined and if accurately utilized can help get the same result but with difference in presentation.. 
 
 ## Data Source
 The primary source of data we used majorly is Sales.csv gotten from Capstone LITA Project
