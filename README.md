@@ -23,8 +23,13 @@ In the initial phase of the Data cleaning and preparation we performed the follo
   1. Deleting duplicates and validating errors
 
 ## Exploratory Data Analysis
-This involved the utilization of Data we worked on, to answer some questions about the Data such as;
-- 
+This is also knowna as a prescriptive analysis which involves the utilization of Data we worked on, to answer some questions about the Data such as;
+- Average of data
+- Total Revenue
+- Maximum Subscriptions
+- Top performing region
+- % of total sale
+- How many customer
 
 ## Data Analysis
 This is used to include some basic lines of code or queries or even some of the DAX expression used during our analysis;
